@@ -1,0 +1,37 @@
+TODO:
+0. Generell:
+    - Ein/Ausblende Option für manche (Code-)Zellen
+    - Bessere Latex Umgebungen für Sätze/Definitionen etc.
+    -
+
+
+1. Zentrale Grenzwertsätze für deterministische dynamische Systeme
+    - Theoretische Aspekte
+    - Animationen etwas größer machen
+
+    - für mehrdimensionale Systeme: Experimente mit der Cat-map
+
+2. Satz von Donsker
+
+    2.1 Einführung/klassischer Satz:
+        - Plots von random walks und Vergleich der Werte an den Achsen (sqrt(x-axis) und y-axis!)
+        - Theoretische Aspekte (klassischer Satz von Donsker)
+
+    2.1 ... für deterministische Systeme:
+        - Normierung mit (empirischer?) Varianz
+        - Vergleich der Summen für verschiedene Observablen
+
+3. Gekoppelte Systeme
+    - Jupyter notebook erstellen
+
+
+4. Mechanische Stoßsysteme
+
+    3.1 1-dimensional
+        - Jupyter Notebook erstellen
+        - Skalierung der Animationen
+        - Stoßzeiten auswerten; Interpretationen?
+
+    3.2 2-dimensional
+        - in package einarbeiten
+        - ...
